@@ -132,3 +132,7 @@ MIT License
 <p align="center">
   <img src="images/hexapod-system-architecture.png" width="600"/>
 </p>
+
+## 🎥 Demo Video
+
+[▶ Watch Demo](demo.mp4)
