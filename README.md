@@ -119,3 +119,16 @@ Kirana Robotics AI
 ## License
 
 MIT License
+
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="images/Robot.jpeg" width="400"/>
+</p>
+
+## ⚙️ System Architecture
+
+<p align="center">
+  <img src="images/hexapod-system-architecture.png" width="600"/>
+</p>
